@@ -1,6 +1,0 @@
-print("vvce")
-print("mysore")
-print("maths")
-print("banglore")
-print("vvce1")
-print("vvce3")
